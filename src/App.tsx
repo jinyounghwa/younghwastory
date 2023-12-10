@@ -17,11 +17,11 @@ function App() {
             <span className="ml-3 text-xl text-indigo-500">기획자 진영화의 개발이야기</span>
           </div>
           <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
-            <div className="mr-5 hover:text-gray-900">
+                        <div className="mr-5 hover:text-gray-900">
               About(준비중)
             </div>
             <div className="mr-5 hover:text-gray-900">
-              JavaScript(준비중)
+            JavaScript(준비중)
             </div>
             <div className="mr-5 hover:text-gray-900">
               Rust(준비중)
@@ -29,9 +29,9 @@ function App() {
           </nav>
         </div>
       </header>
-      <section className="containe mb-9 mt-24"></section>
-      <div className="container mx-auto my-8 max-w-2xl">
-      <h1 className="text-4xl font-bold mb-4">기획자 진영화의 2023년 회고입니다.</h1>
+      <section className="container mb-8 mt-24 px-10"></section>
+      <div className="container mx-auto my-8 max-w-2xl px-2">
+      <h1 className="text-3xl font-bold mb-4 py-10">기획자 진영화의 2023년 회고입니다.</h1>
       <p className="mb-4">안녕하세요 진영화입니다. 이제 기획자로 13년이 되었네요 </p>
       <p className="mb-4">13년이라.. 사실 그런건 중요하지 않습니다.</p>
       
