@@ -35,7 +35,7 @@ function App() {
       <section className="containe mb-9 mt-24"></section>
       <div className="container mx-auto my-8 max-w-2xl">
       <h1 className="text-4xl font-bold mb-4">기획자 진영화의 2023년 회고입니다.</h1>
-      <p className="mb-4">안녕하세요 진영화입니다. 이제 기획자로 13년이 되었네요</p>
+      <p className="mb-4">안녕하세요 진영화입니다. 이제 기획자로 13년이 되었네요 </p>
       <p className="mb-4">13년이라.. 사실 그런건 중요하지 않습니다.</p>
       
       <p className="mb-4">저는 그냥 하루하루 주어진 대로 사는 사람이에요</p>
