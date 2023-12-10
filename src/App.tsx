@@ -29,9 +29,6 @@ function App() {
           </nav>
         </div>
       </header>
-      <div className=''>
-        <img src="image_o.jpeg" alt='image_o.jpg' className='w-full h-100 object-cover object-center' />
-        </div>
       <section className="containe mb-9 mt-24"></section>
       <div className="container mx-auto my-8 max-w-2xl">
       <h1 className="text-4xl font-bold mb-4">기획자 진영화의 2023년 회고입니다.</h1>
