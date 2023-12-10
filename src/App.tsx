@@ -30,7 +30,7 @@ function App() {
         </div>
       </header>
       <div className=''>
-        <img src='https://github.com/jinyounghwa/younghwastory/blob/main/src/image_o.jpeg' alt='image_o.jpeg' className='w-full h-100 object-cover object-center' />
+        <img src='./img/image_o.jpg' alt='image_o.jpg' className='w-full h-100 object-cover object-center' />
         </div>
       <section className="containe mb-9 mt-24"></section>
       <div className="container mx-auto my-8 max-w-2xl">
