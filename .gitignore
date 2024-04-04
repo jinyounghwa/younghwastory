@@ -21,3 +21,5 @@ node_modules
 *.sln
 *.sw?
 
+dist/assets/index-4ee0ed12.css
+dist/assets/index-9337eb40.js
